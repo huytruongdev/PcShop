@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>19daa15d-e8b5-4e91-8b46-ca616cb3505a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PcShop.Infrastructure\PcShop.Infrastructure.csproj" />
+    <ProjectReference Include="..\PcShop.ServiceDefaults\PcShop.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\PcShop.Shared\PcShop.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApp\\PcShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|d:\\webapp\\pcshop\\pcshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|solutionrelative:pcshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|d:\\webapp\\pcshop\\pcshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|solutionrelative:pcshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|d:\\webapp\\pcshop\\pcshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|solutionrelative:pcshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2646FE31-BF7F-4EE5-BA8E-135982E12805}|PcShop.AppHost\\PcShop.AppHost.csproj|d:\\webapp\\pcshop\\pcshop.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2646FE31-BF7F-4EE5-BA8E-135982E12805}|PcShop.AppHost\\PcShop.AppHost.csproj|solutionrelative:pcshop.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|d:\\webapp\\pcshop\\pcshop.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|solutionrelative:pcshop.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|d:\\webapp\\pcshop\\pcshop.domain\\entity\\variantattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|solutionrelative:pcshop.domain\\entity\\variantattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|d:\\webapp\\pcshop\\pcshop.domain\\entity\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|solutionrelative:pcshop.domain\\entity\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|d:\\webapp\\pcshop\\pcshop.domain\\interface\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|solutionrelative:pcshop.domain\\interface\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|d:\\webapp\\pcshop\\pcshop.domain\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C7770-0C48-449D-AF16-507B1C9D92A7}|PcShop.Domain\\PcShop.Domain.csproj|solutionrelative:pcshop.domain\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2646FE31-BF7F-4EE5-BA8E-135982E12805}|PcShop.AppHost\\PcShop.AppHost.csproj|d:\\webapp\\pcshop\\pcshop.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2646FE31-BF7F-4EE5-BA8E-135982E12805}|PcShop.AppHost\\PcShop.AppHost.csproj|solutionrelative:pcshop.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|d:\\webapp\\pcshop\\pcshop.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|solutionrelative:pcshop.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|d:\\webapp\\pcshop\\pcshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|solutionrelative:pcshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|d:\\webapp\\pcshop\\pcshop.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|solutionrelative:pcshop.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|d:\\webapp\\pcshop\\pcshop.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|solutionrelative:pcshop.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|d:\\webapp\\pcshop\\pcshop.infrastructure\\pcshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74E5AD0E-0443-41B7-AA7D-DD424558700B}|PcShop.Infrastructure\\PcShop.Infrastructure.csproj|solutionrelative:pcshop.infrastructure\\pcshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91839529-E24B-43EA-AE07-4CAEE0FA6D2B}|PcShop.Shared\\PcShop.Shared.csproj|d:\\webapp\\pcshop\\pcshop.shared\\pcshop.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91839529-E24B-43EA-AE07-4CAEE0FA6D2B}|PcShop.Shared\\PcShop.Shared.csproj|solutionrelative:pcshop.shared\\pcshop.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|d:\\webapp\\pcshop\\pcshop\\pcshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.Api.csproj|solutionrelative:pcshop\\pcshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|d:\\webapp\\pcshop\\pcshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}|PcShop\\PcShop.csproj|solutionrelative:pcshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\appsettings.json",
+              "RelativeDocumentMoniker": "PcShop\\appsettings.json",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\appsettings.json",
+              "RelativeToolTip": "PcShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T17:51:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PcShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PcShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:51:09.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "PcShop.Infrastructure\\GlobalUsing.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\GlobalUsing.cs",
+              "RelativeToolTip": "PcShop.Infrastructure\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:37:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PcShop.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PcShop.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:13:57.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariantAttribute.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\VariantAttribute.cs",
+              "RelativeDocumentMoniker": "PcShop.Domain\\Entity\\VariantAttribute.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\VariantAttribute.cs",
+              "RelativeToolTip": "PcShop.Domain\\Entity\\VariantAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:04:06.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "PcShop.Domain\\Entity\\ProductVariant.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\ProductVariant.cs",
+              "RelativeToolTip": "PcShop.Domain\\Entity\\ProductVariant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:59:41.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\Program.cs",
+              "RelativeDocumentMoniker": "PcShop\\Program.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\Program.cs",
+              "RelativeToolTip": "PcShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:37:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PcShop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PcShop\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:37:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "PcShop.Domain\\Entity\\Product.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Domain\\Entity\\Product.cs",
+              "RelativeToolTip": "PcShop.Domain\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:44:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "PcShop.AppHost\\Program.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.AppHost\\Program.cs",
+              "RelativeToolTip": "PcShop.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:37:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "PcShop.AppHost\\appsettings.json",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.AppHost\\appsettings.json",
+              "RelativeToolTip": "PcShop.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T16:39:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PcShop.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "PcShop.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:21:38.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Domain\\Interface\\IEntity.cs",
+              "RelativeDocumentMoniker": "PcShop.Domain\\Interface\\IEntity.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Domain\\Interface\\IEntity.cs",
+              "RelativeToolTip": "PcShop.Domain\\Interface\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:45:42.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Domain\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "PcShop.Domain\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Domain\\Interface\\IRepository.cs",
+              "RelativeToolTip": "PcShop.Domain\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:51:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PcShop.Infrastructure",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\PcShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PcShop.Infrastructure\\PcShop.Infrastructure.csproj",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Infrastructure\\PcShop.Infrastructure.csproj",
+              "RelativeToolTip": "PcShop.Infrastructure\\PcShop.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T17:33:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PcShop.Shared",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop.Shared\\PcShop.Shared.csproj",
+              "RelativeDocumentMoniker": "PcShop.Shared\\PcShop.Shared.csproj",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop.Shared\\PcShop.Shared.csproj",
+              "RelativeToolTip": "PcShop.Shared\\PcShop.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T17:32:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PcShop.http",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\PcShop.http",
+              "RelativeDocumentMoniker": "PcShop\\PcShop.http",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\PcShop.http",
+              "RelativeToolTip": "PcShop\\PcShop.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-06T17:25:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\WebApp\\PcShop\\PcShop\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PcShop\\WeatherForecast.cs",
+              "ToolTip": "D:\\WebApp\\PcShop\\PcShop\\WeatherForecast.cs",
+              "RelativeToolTip": "PcShop\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:37:12.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
