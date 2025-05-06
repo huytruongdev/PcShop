@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcShop.Api", "PcShop\PcShop.Api.csproj", "{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcShop.Api", "PcShop.Api\PcShop.Api.csproj", "{4AFC6480-7BA0-4E6D-959D-3549FC0BE8B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcShop.AppHost", "PcShop.AppHost\PcShop.AppHost.csproj", "{2646FE31-BF7F-4EE5-BA8E-135982E12805}"
 EndProject

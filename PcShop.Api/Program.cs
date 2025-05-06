@@ -2,7 +2,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using PcShop.Infrastructure;
 
-namespace PcShop;
+namespace PcShop.Api;
 
 public class Program
 {

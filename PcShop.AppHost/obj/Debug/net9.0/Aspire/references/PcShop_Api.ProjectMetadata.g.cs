@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class PcShop_Api : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """D:\WebApp\PcShop\PcShop\PcShop.Api.csproj""";
+    public string ProjectPath => """D:\WebApp\PcShop\PcShop.Api\PcShop.Api.csproj""";
 }
